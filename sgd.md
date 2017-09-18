@@ -1,3 +1,4 @@
 ### week #1
-### topic: gradient descent optimization 
-
+### topic: 
+- gradient descent optimization 
+- decision tree
